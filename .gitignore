@@ -30,7 +30,8 @@ MANIFEST
 ################################################################################################
 # Data
 data raw/*
+plots raw/*
 data processed/*
+plots processed/*
 experiment log/*
-plots/*
-
+analysis/data processed/*
